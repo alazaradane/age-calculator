@@ -10,7 +10,7 @@ The website is deployed and available at the following URL:
 
 ## Description
 
-This website include Age Calulator which allow you to callcalate your age by just submiting your birthday. 
+This website includes Age Calculator which allows you to calculate your age by just submitting your birthday. 
 
 ## Installation
 
