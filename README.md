@@ -39,4 +39,4 @@ If you'd like to contribute to this project, please feel free to submit a pull r
 This project is licensed under the [MIT License](LICENSE).
 ```
 
-In this example, the `## Deployed Site` section includes a link to the deployed website. You can customize the content and formatting of the README file to fit the specific needs of your project.
+
