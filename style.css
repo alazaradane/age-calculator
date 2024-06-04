@@ -8,9 +8,10 @@
 .container{
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(500deg, #124066, #ffffff);
-    color: #fff;
+    color: rgb(201, 152, 251);
     padding: 10px;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 64%, rgba(9,9,121,1) 100%, rgba(0,212,255,1) 100%);
 }
 .calculator{
     width: 100%;
@@ -22,7 +23,7 @@
     font-size: 60px;
 }
 .calculator h1 span{
-    color: yellow;
+    color: #fff;
 }
 .input-box{
     margin: 40px 0;
@@ -44,8 +45,8 @@
     cursor: pointer;
 }
 .input-box button{
-    background: #ffff76;
-    color: #333;
+    background: rgb(201, 152, 251);
+    color: #fff;
     position: relative;
     padding: 15px 30px;
     border: 0;
@@ -56,7 +57,7 @@
     cursor: pointer;
 }
 .input-box button:hover{
-    background: rgb(9, 134, 9);
+    background: rgb(179, 102, 255);
     color: white;
 }
 .input-box input::-webkit-calender-picker-indicator{
