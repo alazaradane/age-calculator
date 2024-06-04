@@ -6,7 +6,7 @@
 
 The website is deployed and available at the following URL:
 
-[https://my-website.com](https://my-website.com)
+[https://agecalculatoralazar.netlify.app/](https://agecalculatoralazar.netlify.app/)
 
 ## Description
 
